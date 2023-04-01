@@ -4,3 +4,4 @@ This project will be based on these articles listed below:
 `https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react`
 After downloading and choosing correct version of python, eventually I got stuck on how to create a dir for the venv and starting it. 
 In order to start virtual enviroment, run `source ./dar/bin/activate` in project directory.
+In project directory, run `django-admin startproject backend` in order to create backend directory for project. Frontend will be created later. Then cd into `backend`
